@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+body {
+    background-image: url('../img/bg3.jpg');
+    background-size: cover;
+}
+
+.maintext {
+    color: white;
+    font-size: 1.5rem;
+    font-family: Inter;
+    text-align: center;
+    margin: 3rem 10rem;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+#small {
+    font-size: 0.75rem;
+}
